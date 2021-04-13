@@ -1,5 +1,7 @@
 # Friday Night Funkin
 
+![picture alt](/art/thumbnailNewer.png "Title is optional")
+
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
 
 Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
@@ -13,6 +15,9 @@ Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician
 
 This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.
+
+
+![picture alt](/art/preloaderArt.png "Title is optional")
 
 ## Build instructions
 
