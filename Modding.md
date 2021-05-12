@@ -1,13 +1,13 @@
-# RIGHT NOW THE MODS FOLDER DOES NOT WORK ENTIRELY JUST YET!!!
-## THIS IS WORK IN PROGRESS!!!
+# HOW TO MOD IN THE OUTPUT ENGINE
 
-# QUICK AND DIRTY MOD GUIDE
+## ADDING CHARACTERS
 
-With the 0.2.6 update, I added a bit of a slightly nicer mod support backend.
+## ADDING SONGS
 
-It's POLYMOD, which is made by Lars Doucet: https://github.com/larsiusprime/polymod
+## ADDING DIALOGUE
 
-You may have noticed that there's a new folder in the assets. MODS. Within it you will see 2 files. modList.txt, and a folder called introMod.
-modList.txt will load any folder into the game. Put the folder you want to load into a new line in modList.txt, and reboot the game.
+## TROUBLESHOOTING
 
-Now you may be wondering, what do I put in the folder? Well later down it'll get a bit more complicated, especially as I'll make the IN-GAME mod loader nicer.
+dont use trace if you are debugging in html5 instead at the top of the file you want to debug put "import flixel.FlxG" then wherever you want to debug just do 'FlxG.log.add("whatever you want")'
+also make sure you put things in these: "" or '' if you want to log/print/trace things into the log or any string arguments
+
